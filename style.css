@@ -9,7 +9,7 @@ header {
 
 #page {
     
-    background-image: url('slike/bg1.png');
+    background-image: url('images/bg1.png');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -69,26 +69,26 @@ header {
 
 
 #bg2{
-    background-image: url('slike/bg 2.png');
+    background-image: url('images/bg 2.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #bg3{
-    background-image: url('slike/bg 3.png');
+    background-image: url('images/bg 3.png');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover; 
 }
 #bg4{
-    background-image: url('slike/bg4.png');
+    background-image: url('images/bg4.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;  
 }
 
 #contact{
-    background-image: url('slike/contact bg.png');
+    background-image: url('images/contact bg.png');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover; 
