@@ -20,7 +20,7 @@
  ![Screenshot_5](https://user-images.githubusercontent.com/76435969/107923725-2e611000-6f72-11eb-829e-be4ffe7cd973.png)
   
   The last pages contain cards with recipes and instructions for making. By clicking on each of the cards, a popup window with instructions
-  should appear. The contact form contains inputs for name, email, city and textarea for forwarding text by the user. The footer tag contains
+  should appear. The contact form contains inputs for name, email, city and textarea for forwarding text by the user. The footer contains
   links to social networks
   
   ![Screenshot_6](https://user-images.githubusercontent.com/76435969/107923787-459ffd80-6f72-11eb-9705-da75d1205ed7.png)
